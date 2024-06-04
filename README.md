@@ -7,3 +7,6 @@ Despliegue de una arquitectura altamente disponible y escalable en AWS.
 * Requerimiento 1
 * Requerimiento 2
 * Requerimiento 3
+
+### Arquitectura
+En la siguiente imagen se muestra el diseño de la arquitectura a partir de los requerimientos. 
