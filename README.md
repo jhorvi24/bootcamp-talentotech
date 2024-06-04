@@ -10,3 +10,4 @@ Despliegue de una arquitectura altamente disponible y escalable en AWS.
 
 ### Arquitectura
 En la siguiente imagen se muestra el diseño de la arquitectura a partir de los requerimientos. 
+![arquitectura aws](img/Arquitectura.png)
