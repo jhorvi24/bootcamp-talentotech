@@ -15,7 +15,7 @@ En la siguiente imagen se muestra el diseño de la arquitectura a partir de los 
 ## Ejecución
 
 ### Pequeña descripción sobre la fase de ejecución. Se utilizó el servicio de cloudoformation que es un servicio de infraestructura como código para realizar el despliegue de la arquitectura. Utilizamos el siguiente comando para realizar el despliegue de la arquitectura: 
-Primero debemos realizar la validación
+**Primero debemos realizar la validación**
 
 ```
 aws cloudformation validate-template --template-body file://network.yml
